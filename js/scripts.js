@@ -5,8 +5,10 @@ $("#sloth_show").click(function() {
 });
 
 $("button").click(function() {
-  $("#blanket_sloth").toggle();
-});
+  $("#background_theme").removeClass();
+  $("#background_theme").addClass(".dark_text");
+// Try out a toggle here to add other class back OR maybe try another button. Was left open-ended
 
+});
 
 });

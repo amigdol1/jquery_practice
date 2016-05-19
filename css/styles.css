@@ -10,3 +10,18 @@ button {
 #blanket_sloth {
   margin: 15px;
 }
+
+.light_text {
+  color: white;
+  background-color: navy;
+}
+
+.dark_text {
+  color: navy;
+  background: white;
+}
+
+body {
+  margin: 20px;
+
+}
