@@ -1,11 +1,11 @@
 $(function() {
 
 $("#sloth_show").click(function() {
-  $("img").toggle();
+  $("#baby").toggle();
 });
 
 $("button").click(function() {
-  $("img").toggle();
+  $("#blanket_sloth").toggle();
 });
 
 
